@@ -1,0 +1,24 @@
+As Polly the mouse, you live a simple existence.
+You run a small supply shop in a sewer drain somewhere downtown.
+One day you recieve a important summons from a messanger of Rangor.
+
+It reads:
+        Greetings subject. I send tidings from the stronghold of Rangor.
+        Your assistance is requested on a mission of upmost secrecy.
+        I understand this is a busy season for your shop, but I promise
+        you will be rewarded handsomly for your assistance.
+
+What do you do with the message?
+**************************************************
+1. Follow the messenger back to help right away.
+   (You are not afraid of any danger!)
+
+2. Send a message back saying you will follow shortly. 
+   (As a mouse, you are naturally timid and want to see  
+    what this is all about first.)
+
+3. Ignore the mesage and continue on with your work.
+   (Surely there is someone better suited for this type 
+    of thing!)
+
+> 2

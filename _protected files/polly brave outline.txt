@@ -1,0 +1,70 @@
+As Polly the mouse, you live a simple existence.
+You run a small supply shop in a sewer drain somewhere downtown.
+One day you recieve a important summons from a messanger of Rangor.
+
+It reads:
+        Greetings subject. I send tidings from the stronghold of Rangor.
+        Your assistance is requested on a mission of upmost secrecy.
+        I understand this is a busy season for your shop, but I promise
+        you will be rewarded handsomly for your assistance.
+
+What do you do with the message?
+**************************************************
+1. Follow the messenger back to help right away.
+   (You are not afraid of any danger!)
+
+2. Send a message back saying you will follow shortly. 
+   (As a mouse, you are naturally timid and want to see  
+    what this is all about first.)
+
+3. Ignore the mesage and continue on with your work.
+   (Surely there is someone better suited for this type 
+    of thing!)
+
+> 1
+Clearly you have the hart of a warrior mouse!
+The messanger is suprised, but gladly leads you back to the
+rangor stronghold.
+
+You are provided with temporary quarters in the guest wing and
+the messanger leaves to alert Rangor that you have arrived.
+
+What do you do while you wait?
+**************************************************
+1. Curl up in a warm corner to rest for the adventure ahead.
+2. Explore the room.
+3. Leave the room to explore the stronghold.
+
+(After the long journey, poly is tired. This will be the players first intro
+to the health metric:
+Choice 1 gives health 10
+Choice 2 gives health 9
+Choice 3 gives health 8)
+
+The messenger returns and lets you know Rangor will see you now
+
+You enter the gilded throne room of Rangor, the king of the rats. 
+"Polly," he calls out as you enter,
+"I am so glad you could assist me at such short notice."
+
+You are impressed he knows your name, but he continues.
+
+"I do not wish to be blunt, but I find myself in a tough spot. As a result
+of what some consider my lenient treatment of the other creatures who 
+participate in our rat society, there is a strong faction rising amongst
+the rats who wish to start a revolt. Normally, I would involve the rat
+army to solve such an upheaval, but with the fast approaching winter months
+I cannot afford the luxury of time."
+
+"My spies on the far side of the river have let me know there will be a key
+meeting amongst the leaders of the rebel movement that will occur in two
+days time. I have called you to my side in this dire hour to ask that you 
+sneak into this meeting among the wait staff and confirm the identity of 
+those in attendance. With this information confirmed, I will hopefully be
+able to quickly deploy my guard to put this to rest."
+
+
+You travel across the river using the tunnels and locate the venue Rangor 
+told you about. It is located behind a grocery store in an abandoned dumpster.
+You remember Rangor gave you a hint on how you should be able to sneak in. 
+(prompt for user input to join wait staff)

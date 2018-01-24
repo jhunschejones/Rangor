@@ -1,0 +1,28 @@
+--------12/01/17--------
+class test 1 and 2 were used when testing how to require a set of classes
+across two files
+
+--------12/04/17--------
+"class_test3.rb" is the first time I was able to write classes that could store,
+retrieve, and do math on the health variable. Uses it's own classes, NOT the 
+game "engine.rb" file.
+
+'writing_test.rb" and "writing_test2.rb" use the real game "engine.rb" to store 
+and recall the health variable across two files. Some early work was done here
+to lay the ground work for the inventory variable but it is commented out.
+
+--------12/06/17-------
+inventory_test1.rb is a self-contained test to figure out how to serialize an
+array of items, store it to a file, recall the value and add to it, then store
+the new array to the file
+
+inventory_test2.rb serializes an array of items, stores it to a file, recalls
+the value and adds to it, then stores the new array to the file using the real
+game engine
+
+-------12/07/17--------
+pop_test.rb is a test using the actual game engine to remove an item from the 
+inventory and save the new inventory back to the file
+
+fast_track.rb is a way to short cut from the main directory to whichever 
+file I'm currently working on

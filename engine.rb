@@ -1,6 +1,6 @@
 require 'json'
 
-# open stats files to access stats
+# save new stats to stats files
 class UpdateStats
   
   def initialize ()
@@ -23,7 +23,7 @@ class UpdateStats
   end
 end
 
-# save new stats to stats files
+# open stats files to access stats
 class LoadStats
   
   def initialize()

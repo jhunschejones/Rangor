@@ -13,7 +13,7 @@ while true
   print "> "
   choice = $stdin.gets.chomp
   if choice == ""
-    puts "(Please enter your response. What do you want to tell Randor?)"
+    puts "(Please enter your response. What do you want to tell Rangor?)"
   else
     puts "\n"
     puts "You squeek out one last warning:"
